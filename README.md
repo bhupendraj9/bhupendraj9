@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bhupendraj9
 - I’m interested in coding
-- I’m currently learning DSA 
+- I’m currently learning DSA and web developement
 
 
 
