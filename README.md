@@ -2,7 +2,7 @@
 
 <p  align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&background=F7F8FF01&width=435&lines=Hello 👋🏻 +I+am+Bhupendra+Jambhale        ;     I+am+a+Web+developer ,+ DSA learner" alt="Typing SVG" /></a></p>
   <h2> <strong> Technologies and Skills </strong><img src="./assets/borderseparator.gif"/></h2><br>
-  <img src="https://skillicons.dev/icons?i=cpp,c,github,js,mysql,react,mongodb,express,html,css,tailwind" alt="skills logos" /> <br>
+  <img src="https://skillicons.dev/icons?i=cpp,c,github,js,mysql,react,mongodb,express,html,css,tailwind,java,swift,python" alt="skills logos" /> <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=bhupendraj9&label=Profile%20views&color=0e75b6&style=flat" alt="bhupendraj9" /> </p>
 <p>
 - 🌱 <b>I’m currently learning Web developement, DSA</b>
